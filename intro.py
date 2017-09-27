@@ -1,0 +1,1 @@
+print('Yttllo, Django girks!!!')
